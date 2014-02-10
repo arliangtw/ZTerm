@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/56/trunk/org/zhouer/protocol
+END
+SSH2.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/56/trunk/org/zhouer/protocol/SSH2.java
+END
+Protocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/org/zhouer/protocol/Protocol.java
+END
+Standalone.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/56/trunk/org/zhouer/protocol/Standalone.java
+END
+Telnet.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/55/trunk/org/zhouer/protocol/Telnet.java
+END

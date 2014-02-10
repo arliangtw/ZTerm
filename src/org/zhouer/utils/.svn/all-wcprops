@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/org/zhouer/utils
+END
+FileUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/org/zhouer/utils/FileUtils.java
+END
+Convertor.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/org/zhouer/utils/Convertor.java
+END
+TextUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/org/zhouer/utils/TextUtils.java
+END
+Pair.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/org/zhouer/utils/Pair.java
+END
+CSV.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/org/zhouer/utils/CSV.java
+END
